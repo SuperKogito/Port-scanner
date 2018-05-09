@@ -47,7 +47,7 @@ class CustomBox(object):
         self.b_frm.pack(fill='both', expand=True)
 
     def create_hint_label(self, text, pos):
-        label = tk.Label(self.frm, text=text,
+        tk.Label(self.frm, text=text,
                          background='black',
                          foreground="white").grid(row=pos, column=0,
                                                   sticky=tk.W)
