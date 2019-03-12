@@ -1,6 +1,10 @@
 language: python
 python:
   - "3.6"
+before_script:
+  - ls
+  - cd Code
+  - ls 
 # command to run tests
 script:
   - Code/main.py
