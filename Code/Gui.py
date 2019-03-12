@@ -7,8 +7,8 @@ Created on Fri Oct 13 02:17:24 2017
 import socket
 import tkinter as tk
 from contextlib import closing
-from MessageBox import CustomBox
-from ListBox import MultiColumnListbox
+from Code.MessageBox import CustomBox
+from Code.ListBox import MultiColumnListbox
 from tkinter import ttk, Label, Entry, LabelFrame, filedialog
 
 

@@ -3,7 +3,7 @@
 Created on Sat Sep 23 19:05:35 2017
 @author: SuperKogito
 """
-from Gui import MainWindow
+from Code.Gui import MainWindow
 
 
 def main():
