@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/SuperKogito/Port-scanner.svg)](http://hits.dwyl.io/SuperKogito/Port-scanner)
+
 # Port-scanner
 This is a gui port scanner developped using python 3. It is based on the tkinter library and includes various menubar functionalities. The code simply iterates through a range of ports targeting a specified ip, tries to establish a socket connection and returns whether the port is open or not.
 
